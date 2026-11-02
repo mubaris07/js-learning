@@ -1,1 +1,7 @@
 Hello This Is RB08 From Rust-Bridge!
+
+**ADD TWO INTEGERS** :
+
+var sum = function(num1, num2) {
+    return num1 + num2
+}
